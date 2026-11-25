@@ -1,0 +1,538 @@
+[2025-12-19 11:46:29] schema_refresh_ms=90 cols=175
+[2025-12-19 11:46:29] db_connect_ms=267
+[2025-12-19 11:46:30] pick_query_ms=440 rows=2
+[2025-12-19 11:46:30] tg_http_ms=307 code=200 err=
+[2025-12-19 11:46:30] picker_total_ms=1016
+[2025-12-19 11:46:32] cb_db_connect_ms=176
+[2025-12-19 11:46:32] cb_row_ms=437
+[2025-12-19 11:46:32] tg_http_ms=289 code=200 err=
+[2025-12-19 11:46:33] tg_http_ms=501 code=400 err=
+[2025-12-19 11:46:33] cb_total_ms=1406
+[2025-12-19 11:46:36] cb_db_connect_ms=167
+[2025-12-19 11:46:36] cb_row_ms=84
+[2025-12-19 11:46:37] tg_http_ms=298 code=200 err=
+[2025-12-19 11:46:37] tg_http_ms=234 code=200 err=
+[2025-12-19 11:46:37] cb_total_ms=786
+[2025-12-19 11:46:43] cb_db_connect_ms=178
+[2025-12-19 11:46:43] cb_row_ms=89
+[2025-12-19 11:46:43] tg_http_ms=302 code=200 err=
+[2025-12-19 11:46:45] cb_db_connect_ms=178
+[2025-12-19 11:46:45] tg_http_ms=318 code=200 err=
+[2025-12-19 11:46:45] tg_http_ms=221 code=200 err=
+[2025-12-19 11:46:45] cb_total_ms=809
+[2025-12-19 11:46:48] cb_db_connect_ms=177
+[2025-12-19 11:46:48] tg_http_ms=291 code=200 err=
+[2025-12-19 11:46:48] db_connect_ms=44
+[2025-12-19 11:46:49] pick_query_ms=399 rows=1
+[2025-12-19 11:46:49] tg_http_ms=503 code=400 err=
+[2025-12-19 11:46:49] picker_total_ms=948
+[2025-12-19 11:46:49] cb_total_ms=1596
+[2025-12-19 11:46:56] cb_db_connect_ms=177
+[2025-12-19 11:46:56] tg_http_ms=348 code=200 err=
+[2025-12-19 11:51:32] tg_http_ms=311 code=200 err=
+[2025-12-19 11:51:32] schema_refresh_ms=90 cols=175
+[2025-12-19 11:51:32] bind_db_connect_ms=268
+[2025-12-19 11:51:33] bind_select_ms=437
+[2025-12-19 11:51:33] tg_http_ms=233 code=200 err=
+[2025-12-19 11:51:33] bind_total_ms=940
+[2025-12-19 11:51:45] db_connect_ms=179
+[2025-12-19 11:51:45] pick_query_ms=90 rows=0
+[2025-12-19 11:51:46] tg_http_ms=338 code=200 err=
+[2025-12-19 11:51:46] picker_total_ms=609
+[2025-12-19 11:51:50] db_connect_ms=179
+[2025-12-19 11:51:50] pick_query_ms=90 rows=0
+[2025-12-19 11:51:51] tg_http_ms=319 code=200 err=
+[2025-12-19 11:51:51] picker_total_ms=589
+[2025-12-19 11:52:00] tg_http_ms=315 code=200 err=
+[2025-12-19 11:52:01] bind_db_connect_ms=170
+[2025-12-19 11:52:01] bind_select_ms=85
+[2025-12-19 11:52:01] bind_update_ms=85
+[2025-12-19 11:52:01] tg_http_ms=229 code=200 err=
+[2025-12-19 11:52:01] bind_total_ms=657
+[2025-12-19 11:52:04] db_connect_ms=177
+[2025-12-19 11:52:04] pick_query_ms=89 rows=1
+[2025-12-19 11:52:05] tg_http_ms=392 code=200 err=
+[2025-12-19 11:52:05] picker_total_ms=660
+[2025-12-19 11:57:51] schema_refresh_ms=85 cols=175
+[2025-12-19 11:57:51] db_connect_ms=253
+[2025-12-19 11:57:51] pick_query_ms=84 rows=1
+[2025-12-19 11:57:51] tg_http_ms=384 code=200 err=
+[2025-12-19 11:57:51] picker_total_ms=723
+[2025-12-19 11:57:53] tg_http_ms=378 code=200 err=
+[2025-12-19 11:57:54] tg_http_ms=216 code=200 err=
+[2025-12-19 11:57:54] cab_total_ms=469
+[2025-12-19 11:58:01] tg_http_ms=326 code=200 err=
+[2025-12-19 11:58:01] tg_http_ms=225 code=200 err=
+[2025-12-19 11:58:01] cab_total_ms=499
+[2025-12-19 11:58:06] tg_http_ms=289 code=200 err=
+[2025-12-19 11:58:07] tg_http_ms=290 code=200 err=
+[2025-12-19 11:58:07] cab_total_ms=559
+[2025-12-19 11:58:09] tg_http_ms=299 code=200 err=
+[2025-12-19 11:58:10] tg_http_ms=227 code=200 err=
+[2025-12-19 11:58:10] cab_total_ms=498
+[2025-12-19 11:58:14] tg_http_ms=300 code=200 err=
+[2025-12-19 11:58:15] db_connect_ms=177
+[2025-12-19 11:58:15] pick_query_ms=88 rows=1
+[2025-12-19 11:58:15] tg_http_ms=220 code=200 err=
+[2025-12-19 11:58:15] picker_total_ms=486
+[2025-12-19 11:58:23] tg_http_ms=301 code=200 err=
+[2025-12-19 11:58:32] tg_http_ms=312 code=200 err=
+[2025-12-19 11:58:35] db_connect_ms=177
+[2025-12-19 11:58:35] pick_query_ms=89 rows=1
+[2025-12-19 11:58:35] tg_http_ms=363 code=200 err=
+[2025-12-19 11:58:35] picker_total_ms=629
+[2025-12-19 11:58:37] tg_http_ms=300 code=200 err=
+[2025-12-19 11:58:37] tg_http_ms=226 code=200 err=
+[2025-12-19 11:58:37] cab_total_ms=493
+[2025-12-19 11:58:47] tg_http_ms=319 code=200 err=
+[2025-12-19 11:58:48] tg_http_ms=292 code=200 err=
+[2025-12-19 11:58:49] tg_http_ms=295 code=200 err=
+[2025-12-19 11:58:50] db_connect_ms=45
+[2025-12-19 11:58:50] pick_query_ms=91 rows=0
+[2025-12-19 11:58:50] tg_http_ms=247 code=200 err=
+[2025-12-19 11:58:50] picker_total_ms=384
+[2025-12-19 11:58:52] db_connect_ms=180
+[2025-12-19 11:58:53] pick_query_ms=90 rows=0
+[2025-12-19 11:58:53] tg_http_ms=313 code=200 err=
+[2025-12-19 11:58:53] picker_total_ms=584
+[2025-12-19 11:59:01] tg_http_ms=352 code=200 err=
+[2025-12-19 11:59:01] bind_db_connect_ms=177
+[2025-12-19 11:59:02] tg_http_ms=229 code=200 err=
+[2025-12-19 11:59:02] bind_total_ms=674
+[2025-12-19 12:17:22] schema_refresh_ms=91 cols=175
+[2025-12-19 12:17:22] db_connect_ms=272
+[2025-12-19 12:17:22] pick_query_ms=90 rows=0
+[2025-12-19 12:17:22] tg_http_ms=340 code=200 err=
+[2025-12-19 12:17:22] picker_total_ms=702
+[2025-12-19 12:17:24] db_connect_ms=180
+[2025-12-19 12:17:24] pick_query_ms=89 rows=0
+[2025-12-19 12:17:25] tg_http_ms=366 code=200 err=
+[2025-12-19 12:17:25] picker_total_ms=636
+[2025-12-19 12:17:49] db_connect_ms=169
+[2025-12-19 12:17:49] pick_query_ms=85 rows=2
+[2025-12-19 12:17:49] tg_http_ms=404 code=200 err=
+[2025-12-19 12:17:49] picker_total_ms=661
+[2025-12-19 12:17:51] tg_http_ms=289 code=200 err=
+[2025-12-19 12:17:51] tg_http_ms=214 code=200 err=
+[2025-12-19 12:17:51] cab_total_ms=487
+[2025-12-19 12:17:53] tg_http_ms=333 code=200 err=
+[2025-12-19 12:17:54] tg_http_ms=241 code=200 err=
+[2025-12-19 12:17:55] tg_http_ms=288 code=200 err=
+[2025-12-19 12:17:55] db_connect_ms=44
+[2025-12-19 12:17:55] pick_query_ms=88 rows=1
+[2025-12-19 12:17:56] tg_http_ms=260 code=200 err=
+[2025-12-19 12:17:56] picker_total_ms=394
+[2025-12-19 12:17:57] tg_http_ms=301 code=200 err=
+[2025-12-19 12:17:58] tg_http_ms=217 code=200 err=
+[2025-12-19 12:17:58] cab_total_ms=489
+[2025-12-19 12:17:59] tg_http_ms=298 code=200 err=
+[2025-12-19 12:18:00] tg_http_ms=220 code=200 err=
+[2025-12-19 12:18:01] tg_http_ms=404 code=200 err=
+[2025-12-19 12:18:01] db_connect_ms=44
+[2025-12-19 12:18:01] pick_query_ms=89 rows=0
+[2025-12-19 12:18:02] tg_http_ms=290 code=200 err=
+[2025-12-19 12:18:02] picker_total_ms=424
+[2025-12-19 12:20:54] db_connect_ms=181
+[2025-12-19 12:20:54] pick_query_ms=91 rows=0
+[2025-12-19 12:20:54] tg_http_ms=317 code=200 err=
+[2025-12-19 12:20:54] picker_total_ms=591
+[2025-12-19 12:20:56] db_connect_ms=177
+[2025-12-19 12:20:56] pick_query_ms=88 rows=0
+[2025-12-19 12:20:56] tg_http_ms=345 code=200 err=
+[2025-12-19 12:20:56] picker_total_ms=612
+[2025-12-19 12:35:20] schema_refresh_ms=85 cols=175
+[2025-12-19 12:35:20] db_connect_ms=253
+[2025-12-19 12:35:20] pick_query_ms=84 rows=0
+[2025-12-19 12:35:20] tg_http_ms=313 code=200 err=
+[2025-12-19 12:35:20] picker_total_ms=651
+[2025-12-19 12:45:19] tg_http_ms=346 code=200 err=
+[2025-12-19 12:45:20] schema_refresh_ms=90 cols=175
+[2025-12-19 12:45:20] bind_db_connect_ms=267
+[2025-12-19 12:45:20] tg_http_ms=256 code=200 err=
+[2025-12-19 12:45:20] bind_total_ms=791
+[2025-12-19 12:48:14] tg_http_ms=362 code=200 err=
+[2025-12-19 12:48:14] bind_db_connect_ms=179
+[2025-12-19 12:48:14] tg_http_ms=226 code=200 err=
+[2025-12-19 12:48:14] bind_total_ms=676
+[2025-12-19 12:49:16] db_connect_ms=178
+[2025-12-19 12:49:16] pick_query_ms=89 rows=1
+[2025-12-19 12:49:17] tg_http_ms=334 code=200 err=
+[2025-12-19 12:49:17] picker_total_ms=603
+[2025-12-19 12:49:18] tg_http_ms=303 code=200 err=
+[2025-12-19 12:49:19] tg_http_ms=275 code=200 err=
+[2025-12-19 12:49:19] cab_total_ms=547
+[2025-12-19 12:49:24] tg_http_ms=323 code=200 err=
+[2025-12-19 12:49:25] tg_http_ms=223 code=200 err=
+[2025-12-19 12:49:25] cab_total_ms=476
+[2025-12-19 12:49:27] tg_http_ms=475 code=200 err=
+[2025-12-19 12:49:28] tg_http_ms=229 code=200 err=
+[2025-12-19 12:49:28] cab_total_ms=500
+[2025-12-19 12:49:29] tg_http_ms=301 code=200 err=
+[2025-12-19 12:49:30] tg_http_ms=226 code=200 err=
+[2025-12-19 12:49:30] cab_total_ms=481
+[2025-12-19 12:49:32] tg_http_ms=301 code=200 err=
+[2025-12-19 12:49:33] tg_http_ms=220 code=200 err=
+[2025-12-19 12:49:33] cab_total_ms=492
+[2025-12-19 12:49:36] tg_http_ms=333 code=200 err=
+[2025-12-19 12:49:36] tg_http_ms=222 code=200 err=
+[2025-12-19 12:49:36] cab_total_ms=474
+[2025-12-19 13:08:01] schema_refresh_ms=91 cols=175
+[2025-12-19 13:08:01] db_connect_ms=272
+[2025-12-19 13:08:01] pick_query_ms=90 rows=1
+[2025-12-19 13:08:01] tg_http_ms=374 code=200 err=
+[2025-12-19 13:08:01] picker_total_ms=738
+[2025-12-19 13:10:40] tg_http_ms=376 code=200 err=
+[2025-12-19 13:52:32] schema_refresh_ms=84 cols=175
+[2025-12-19 13:52:32] tg_http_ms=351 code=200 err=
+[2025-12-19 13:52:33] tg_http_ms=290 code=200 err=
+[2025-12-19 13:52:37] tg_http_ms=358 code=200 err=
+[2025-12-19 13:52:37] db_connect_ms=177
+[2025-12-19 13:52:37] pick_query_ms=90 rows=1
+[2025-12-19 13:52:38] tg_http_ms=322 code=200 err=
+[2025-12-19 13:52:38] picker_total_ms=590
+[2025-12-19 13:52:39] tg_http_ms=329 code=200 err=
+[2025-12-19 13:52:40] tg_http_ms=272 code=200 err=
+[2025-12-19 13:52:40] cab_total_ms=788
+[2025-12-19 13:52:53] tg_http_ms=296 code=200 err=
+[2025-12-19 13:52:53] db_connect_ms=179
+[2025-12-19 13:52:53] pick_query_ms=89 rows=2
+[2025-12-19 13:52:53] tg_http_ms=291 code=200 err=
+[2025-12-19 13:52:53] picker_total_ms=561
+[2025-12-19 13:52:55] tg_http_ms=296 code=200 err=
+[2025-12-19 13:52:56] tg_http_ms=232 code=200 err=
+[2025-12-19 13:52:56] cab_total_ms=500
+[2025-12-19 13:52:57] tg_http_ms=322 code=200 err=
+[2025-12-19 13:52:58] tg_http_ms=219 code=200 err=
+[2025-12-19 13:52:59] tg_http_ms=291 code=200 err=
+[2025-12-19 13:52:59] db_connect_ms=41
+[2025-12-19 13:53:00] pick_query_ms=84 rows=1
+[2025-12-19 13:53:00] tg_http_ms=225 code=200 err=
+[2025-12-19 13:53:00] picker_total_ms=351
+[2025-12-19 13:53:01] tg_http_ms=320 code=200 err=
+[2025-12-19 13:53:02] tg_http_ms=282 code=200 err=
+[2025-12-19 13:53:02] cab_total_ms=549
+[2025-12-19 13:53:03] tg_http_ms=300 code=200 err=
+[2025-12-19 13:53:04] tg_http_ms=224 code=200 err=
+[2025-12-19 13:53:05] tg_http_ms=303 code=200 err=
+[2025-12-19 13:53:05] db_connect_ms=44
+[2025-12-19 13:53:05] pick_query_ms=89 rows=0
+[2025-12-19 13:53:05] tg_http_ms=240 code=200 err=
+[2025-12-19 13:53:05] picker_total_ms=374
+[2025-12-19 13:55:04] tg_http_ms=482 code=200 err=
+[2025-12-19 13:55:04] tg_http_ms=287 code=200 err=
+[2025-12-19 13:55:05] bind_db_connect_ms=44
+[2025-12-19 13:55:05] tg_http_ms=231 code=200 err=
+[2025-12-19 13:55:05] bind_total_ms=542
+[2025-12-19 13:55:08] tg_http_ms=303 code=200 err=
+[2025-12-19 13:55:08] db_connect_ms=178
+[2025-12-19 13:55:08] pick_query_ms=90 rows=2
+[2025-12-19 13:55:08] tg_http_ms=241 code=200 err=
+[2025-12-19 13:55:08] picker_total_ms=510
+[2025-12-19 13:55:10] tg_http_ms=319 code=200 err=
+[2025-12-19 13:55:11] tg_http_ms=234 code=200 err=
+[2025-12-19 13:55:11] cab_total_ms=500
+[2025-12-19 13:55:14] tg_http_ms=298 code=200 err=
+[2025-12-19 13:55:14] tg_http_ms=324 code=200 err=
+[2025-12-19 13:55:14] cab_total_ms=591
+[2025-12-19 13:55:16] tg_http_ms=287 code=200 err=
+[2025-12-19 13:55:17] tg_http_ms=267 code=200 err=
+[2025-12-19 13:55:17] cab_total_ms=534
+[2025-12-19 13:55:18] tg_http_ms=326 code=200 err=
+[2025-12-19 13:55:18] tg_http_ms=231 code=200 err=
+[2025-12-19 13:55:18] cab_total_ms=484
+[2025-12-19 13:55:19] tg_http_ms=360 code=200 err=
+[2025-12-19 13:55:20] tg_http_ms=289 code=200 err=
+[2025-12-19 13:55:20] cab_total_ms=560
+[2025-12-19 13:55:21] tg_http_ms=361 code=200 err=
+[2025-12-19 13:55:22] tg_http_ms=252 code=200 err=
+[2025-12-19 13:55:22] cab_total_ms=519
+[2025-12-19 13:55:23] tg_http_ms=450 code=200 err=
+[2025-12-19 13:55:23] db_connect_ms=180
+[2025-12-19 13:55:23] pick_query_ms=90 rows=2
+[2025-12-19 13:55:23] tg_http_ms=260 code=200 err=
+[2025-12-19 13:55:23] picker_total_ms=530
+[2025-12-19 13:55:25] tg_http_ms=294 code=200 err=
+[2025-12-19 13:55:26] tg_http_ms=225 code=200 err=
+[2025-12-19 13:55:26] cab_total_ms=494
+[2025-12-19 13:55:28] tg_http_ms=322 code=200 err=
+[2025-12-19 13:55:29] tg_http_ms=328 code=200 err=
+[2025-12-19 13:55:29] cab_total_ms=585
+[2025-12-19 13:55:30] tg_http_ms=339 code=200 err=
+[2025-12-19 13:55:30] tg_http_ms=252 code=200 err=
+[2025-12-19 13:55:32] tg_http_ms=311 code=200 err=
+[2025-12-19 13:55:32] db_connect_ms=44
+[2025-12-19 13:55:32] pick_query_ms=89 rows=1
+[2025-12-19 13:55:33] tg_http_ms=262 code=200 err=
+[2025-12-19 13:55:33] picker_total_ms=397
+[2025-12-19 13:55:35] tg_http_ms=304 code=200 err=
+[2025-12-19 13:55:35] tg_http_ms=218 code=200 err=
+[2025-12-19 13:55:35] cab_total_ms=484
+[2025-12-19 14:28:02] schema_refresh_ms=89 cols=175
+[2025-12-19 14:28:02] tg_http_ms=369 code=200 err=
+[2025-12-19 14:28:03] tg_http_ms=322 code=200 err=
+[2025-12-19 14:28:04] tg_http_ms=362 code=200 err=
+[2025-12-19 14:28:04] db_connect_ms=44
+[2025-12-19 14:28:05] pick_query_ms=88 rows=0
+[2025-12-19 14:28:05] tg_http_ms=254 code=200 err=
+[2025-12-19 14:28:05] picker_total_ms=388
+[2025-12-19 14:28:06] tg_http_ms=353 code=200 err=
+[2025-12-19 14:28:07] db_connect_ms=167
+[2025-12-19 14:28:07] pick_query_ms=84 rows=0
+[2025-12-19 14:28:07] tg_http_ms=238 code=200 err=
+[2025-12-19 14:28:07] picker_total_ms=490
+[2025-12-19 14:33:32] schema_refresh_ms=84 cols=175
+[2025-12-19 14:33:32] tg_http_ms=356 code=200 err=
+[2025-12-19 14:33:32] tg_http_ms=297 code=200 err=
+[2025-12-19 14:33:32] bind_db_connect_ms=42
+[2025-12-19 14:33:33] tg_http_ms=256 code=200 err=
+[2025-12-19 14:33:33] bind_total_ms=556
+[2025-12-19 14:35:11] tg_http_ms=285 code=200 err=
+[2025-12-19 14:35:11] db_connect_ms=168
+[2025-12-19 14:35:11] pick_query_ms=84 rows=1
+[2025-12-19 14:35:11] tg_http_ms=242 code=200 err=
+[2025-12-19 14:35:11] picker_total_ms=495
+[2025-12-19 14:35:13] tg_http_ms=285 code=200 err=
+[2025-12-19 14:35:13] tg_http_ms=242 code=200 err=
+[2025-12-19 14:35:13] cab_total_ms=493
+[2025-12-19 14:35:15] tg_http_ms=289 code=200 err=
+[2025-12-19 14:35:16] tg_http_ms=224 code=200 err=
+[2025-12-19 14:35:17] tg_http_ms=293 code=200 err=
+[2025-12-19 14:35:17] db_connect_ms=44
+[2025-12-19 14:35:17] pick_query_ms=90 rows=0
+[2025-12-19 14:35:18] tg_http_ms=252 code=200 err=
+[2025-12-19 14:35:18] picker_total_ms=387
+[2025-12-19 14:35:40] tg_http_ms=300 code=200 err=
+[2025-12-19 14:35:41] tg_http_ms=227 code=200 err=
+[2025-12-19 14:35:41] bind_db_connect_ms=44
+[2025-12-19 14:35:41] tg_http_ms=224 code=200 err=
+[2025-12-19 14:35:41] bind_total_ms=534
+[2025-12-19 14:36:18] tg_http_ms=292 code=200 err=
+[2025-12-19 14:36:19] db_connect_ms=178
+[2025-12-19 14:36:19] pick_query_ms=88 rows=1
+[2025-12-19 14:36:19] tg_http_ms=232 code=200 err=
+[2025-12-19 14:36:19] picker_total_ms=500
+[2025-12-19 14:36:20] tg_http_ms=298 code=200 err=
+[2025-12-19 14:36:21] tg_http_ms=227 code=200 err=
+[2025-12-19 14:36:21] cab_total_ms=496
+[2025-12-19 14:36:22] tg_http_ms=353 code=200 err=
+[2025-12-19 14:36:23] tg_http_ms=269 code=200 err=
+[2025-12-19 14:36:25] tg_http_ms=330 code=200 err=
+[2025-12-19 14:36:25] db_connect_ms=44
+[2025-12-19 14:36:25] pick_query_ms=89 rows=0
+[2025-12-19 14:36:25] tg_http_ms=242 code=200 err=
+[2025-12-19 14:36:25] picker_total_ms=376
+[2025-12-19 14:36:46] tg_http_ms=317 code=200 err=
+[2025-12-19 14:36:46] tg_http_ms=246 code=200 err=
+[2025-12-19 14:36:46] bind_db_connect_ms=42
+[2025-12-19 14:36:47] tg_http_ms=278 code=200 err=
+[2025-12-19 14:36:47] bind_total_ms=577
+[2025-12-19 14:37:13] tg_http_ms=338 code=200 err=
+[2025-12-19 14:37:14] db_connect_ms=179
+[2025-12-19 14:37:14] pick_query_ms=90 rows=1
+[2025-12-19 14:37:14] tg_http_ms=222 code=200 err=
+[2025-12-19 14:37:14] picker_total_ms=492
+[2025-12-19 14:37:15] tg_http_ms=305 code=200 err=
+[2025-12-19 14:37:16] tg_http_ms=225 code=200 err=
+[2025-12-19 14:37:16] cab_total_ms=491
+[2025-12-19 14:37:17] tg_http_ms=317 code=200 err=
+[2025-12-19 14:37:17] tg_http_ms=251 code=200 err=
+[2025-12-19 14:37:19] tg_http_ms=298 code=200 err=
+[2025-12-19 14:37:19] db_connect_ms=44
+[2025-12-19 14:37:20] pick_query_ms=89 rows=0
+[2025-12-19 14:37:20] tg_http_ms=225 code=200 err=
+[2025-12-19 14:37:20] picker_total_ms=360
+[2025-12-19 14:40:50] schema_refresh_ms=89 cols=175
+[2025-12-19 14:40:50] tg_http_ms=320 code=200 err=
+[2025-12-19 14:40:50] tg_http_ms=233 code=200 err=
+[2025-12-19 14:40:50] bind_db_connect_ms=44
+[2025-12-19 14:40:51] tg_http_ms=227 code=200 err=
+[2025-12-19 14:40:51] bind_total_ms=538
+[2025-12-19 14:41:28] tg_http_ms=314 code=200 err=
+[2025-12-19 14:41:28] db_connect_ms=179
+[2025-12-19 14:41:28] pick_query_ms=90 rows=1
+[2025-12-19 14:41:29] tg_http_ms=299 code=200 err=
+[2025-12-19 14:41:29] picker_total_ms=569
+[2025-12-19 14:41:31] tg_http_ms=347 code=200 err=
+[2025-12-19 14:41:32] tg_http_ms=270 code=200 err=
+[2025-12-19 14:41:32] cab_total_ms=521
+[2025-12-19 14:41:33] tg_http_ms=296 code=200 err=
+[2025-12-19 14:41:34] tg_http_ms=221 code=200 err=
+[2025-12-19 14:41:34] cab_total_ms=472
+[2025-12-19 14:41:35] tg_http_ms=370 code=200 err=
+[2025-12-19 14:41:36] tg_http_ms=288 code=200 err=
+[2025-12-19 14:41:36] cab_total_ms=543
+[2025-12-19 14:41:38] tg_http_ms=428 code=200 err=
+[2025-12-19 14:41:38] tg_http_ms=249 code=200 err=
+[2025-12-19 14:41:38] cab_total_ms=515
+[2025-12-19 14:41:40] tg_http_ms=304 code=200 err=
+[2025-12-19 14:41:40] tg_http_ms=220 code=200 err=
+[2025-12-19 14:41:54] tg_http_ms=291 code=200 err=
+[2025-12-19 14:41:54] db_connect_ms=44
+[2025-12-19 14:41:54] pick_query_ms=89 rows=0
+[2025-12-19 14:41:54] tg_http_ms=233 code=200 err=
+[2025-12-19 14:41:54] picker_total_ms=367
+[2025-12-19 14:41:56] tg_http_ms=301 code=200 err=
+[2025-12-19 14:41:56] db_connect_ms=178
+[2025-12-19 14:41:56] pick_query_ms=89 rows=0
+[2025-12-19 14:41:56] tg_http_ms=241 code=200 err=
+[2025-12-19 14:41:56] picker_total_ms=510
+[2025-12-19 14:41:59] tg_http_ms=298 code=200 err=
+[2025-12-19 14:41:59] db_connect_ms=179
+[2025-12-19 14:41:59] pick_query_ms=89 rows=0
+[2025-12-19 14:41:59] tg_http_ms=238 code=200 err=
+[2025-12-19 14:41:59] picker_total_ms=507
+[2025-12-19 14:42:06] tg_http_ms=342 code=200 err=
+[2025-12-19 14:42:07] tg_http_ms=238 code=200 err=
+[2025-12-19 14:42:07] bind_db_connect_ms=41
+[2025-12-19 14:42:07] tg_http_ms=328 code=200 err=
+[2025-12-19 14:42:07] bind_total_ms=622
+[2025-12-20 08:04:15] tg_http_ms=289 code=200 err=
+[2025-12-20 08:04:16] schema_refresh_ms=85 cols=175
+[2025-12-20 08:04:16] db_connect_ms=254
+[2025-12-20 08:04:16] pick_query_ms=83 rows=1
+[2025-12-20 08:04:16] tg_http_ms=220 code=200 err=
+[2025-12-20 08:04:16] picker_total_ms=559
+[2025-12-20 08:04:17] tg_http_ms=303 code=200 err=
+[2025-12-20 08:04:18] tg_http_ms=241 code=200 err=
+[2025-12-20 08:04:18] cab_total_ms=509
+[2025-12-20 08:04:20] tg_http_ms=308 code=200 err=
+[2025-12-20 08:04:20] tg_http_ms=228 code=200 err=
+[2025-12-20 08:04:21] tg_http_ms=307 code=200 err=
+[2025-12-20 08:04:21] db_connect_ms=44
+[2025-12-20 08:04:22] pick_query_ms=88 rows=0
+[2025-12-20 08:04:22] tg_http_ms=224 code=200 err=
+[2025-12-20 08:04:22] picker_total_ms=358
+[2025-12-20 08:04:32] tg_http_ms=300 code=200 err=
+[2025-12-20 08:04:32] tg_http_ms=228 code=200 err=
+[2025-12-20 08:04:32] bind_db_connect_ms=45
+[2025-12-20 08:04:32] tg_http_ms=221 code=200 err=
+[2025-12-20 08:04:32] bind_total_ms=542
+[2025-12-20 09:36:08] tg_http_ms=304 code=200 err=
+[2025-12-20 09:36:09] schema_refresh_ms=90 cols=175
+[2025-12-20 09:36:09] db_connect_ms=269
+[2025-12-20 09:36:09] pick_query_ms=89 rows=1
+[2025-12-20 09:36:09] tg_http_ms=257 code=200 err=
+[2025-12-20 09:36:09] picker_total_ms=616
+[2025-12-20 09:36:10] tg_http_ms=308 code=200 err=
+[2025-12-20 09:36:11] tg_http_ms=287 code=200 err=
+[2025-12-20 09:36:11] cab_total_ms=557
+[2025-12-20 09:36:24] tg_http_ms=395 code=200 err=
+[2025-12-20 09:36:25] tg_http_ms=218 code=200 err=
+[2025-12-20 09:36:25] cab_total_ms=484
+[2025-12-20 19:36:12] tg_http_ms=295 code=200 err=
+[2025-12-20 19:36:13] schema_refresh_ms=90 cols=175
+[2025-12-20 19:36:13] db_connect_ms=268
+[2025-12-20 19:36:13] pick_query_ms=92 rows=1
+[2025-12-20 19:36:13] tg_http_ms=247 code=200 err=
+[2025-12-20 19:36:13] picker_total_ms=608
+[2025-12-21 05:47:00] tg_http_ms=303 code=200 err=
+[2025-12-21 05:47:00] schema_refresh_ms=86 cols=175
+[2025-12-21 05:47:00] db_connect_ms=255
+[2025-12-21 05:47:00] pick_query_ms=84 rows=1
+[2025-12-21 05:47:00] tg_http_ms=223 code=200 err=
+[2025-12-21 05:47:00] picker_total_ms=563
+[2025-12-21 05:47:02] tg_http_ms=290 code=200 err=
+[2025-12-21 05:47:03] tg_http_ms=243 code=200 err=
+[2025-12-21 05:47:03] cab_total_ms=511
+[2025-12-21 13:55:46] tg_http_ms=383 code=200 err=
+[2025-12-21 13:55:47] schema_refresh_ms=85 cols=175
+[2025-12-21 13:55:47] db_connect_ms=253
+[2025-12-21 13:55:47] pick_query_ms=83 rows=1
+[2025-12-21 13:55:47] tg_http_ms=277 code=200 err=
+[2025-12-21 13:55:47] picker_total_ms=615
+[2025-12-21 13:55:49] tg_http_ms=324 code=200 err=
+[2025-12-21 13:55:49] tg_http_ms=231 code=200 err=
+[2025-12-21 13:55:49] cab_total_ms=497
+[2025-12-21 13:55:52] tg_http_ms=288 code=200 err=
+[2025-12-21 13:55:52] tg_http_ms=218 code=200 err=
+[2025-12-21 13:55:52] cab_total_ms=488
+[2025-12-21 13:55:54] tg_http_ms=300 code=200 err=
+[2025-12-21 13:55:54] tg_http_ms=222 code=200 err=
+[2025-12-21 13:55:54] cab_total_ms=490
+[2025-12-22 06:02:08] tg_http_ms=296 code=200 err=
+[2025-12-22 06:02:08] schema_refresh_ms=89 cols=175
+[2025-12-22 06:02:08] db_connect_ms=269
+[2025-12-22 06:02:08] pick_query_ms=88 rows=1
+[2025-12-22 06:02:09] tg_http_ms=217 code=200 err=
+[2025-12-22 06:02:09] picker_total_ms=575
+[2025-12-22 06:02:10] tg_http_ms=288 code=200 err=
+[2025-12-22 06:02:10] tg_http_ms=211 code=200 err=
+[2025-12-22 06:02:10] cab_total_ms=478
+[2025-12-22 06:02:12] tg_http_ms=284 code=200 err=
+[2025-12-22 06:02:12] tg_http_ms=224 code=200 err=
+[2025-12-22 06:02:14] tg_http_ms=292 code=200 err=
+[2025-12-22 06:02:14] db_connect_ms=45
+[2025-12-22 06:02:14] pick_query_ms=92 rows=0
+[2025-12-22 06:02:14] tg_http_ms=232 code=200 err=
+[2025-12-22 06:02:14] picker_total_ms=370
+[2025-12-22 06:50:27] schema_refresh_ms=90 cols=175
+[2025-12-22 06:50:27] tg_http_ms=308 code=200 err=
+[2025-12-22 06:50:28] tg_http_ms=220 code=200 err=
+[2025-12-22 06:50:28] tg_http_ms=224 code=200 err=
+[2025-12-22 06:50:28] tg_http_ms=222 code=200 err=
+[2025-12-22 06:50:28] bind_total_ms=222
+[2025-12-22 06:50:53] tg_http_ms=293 code=200 err=
+[2025-12-22 06:50:54] tg_http_ms=219 code=200 err=
+[2025-12-22 06:50:54] tg_http_ms=224 code=200 err=
+[2025-12-22 06:50:54] bind_total_ms=224
+[2025-12-22 06:58:34] schema_refresh_ms=92 cols=175
+[2025-12-22 06:58:34] tg_http_ms=412 code=200 err=
+[2025-12-22 06:58:34] tg_http_ms=222 code=200 err=
+[2025-12-22 06:58:34] bind_db_connect_ms=45
+[2025-12-22 06:58:35] tg_http_ms=226 code=200 err=
+[2025-12-22 06:58:35] bind_total_ms=546
+[2025-12-22 08:02:44] schema_refresh_ms=90 cols=175
+[2025-12-22 08:02:44] tg_http_ms=321 code=200 err=
+[2025-12-22 08:02:45] tg_http_ms=220 code=200 err=
+[2025-12-22 08:02:45] bind_db_connect_ms=44
+[2025-12-22 08:03:44] tg_http_ms=321 code=200 err=
+[2025-12-22 08:03:45] tg_http_ms=221 code=200 err=
+[2025-12-22 08:03:45] bind_db_connect_ms=42
+[2025-12-22 08:03:45] tg_http_ms=226 code=200 err=
+[2025-12-22 08:03:45] bind_total_ms=520
+[2025-12-22 08:03:46] tg_http_ms=300 code=200 err=
+[2025-12-22 08:03:46] tg_http_ms=226 code=200 err=
+[2025-12-22 08:03:46] bind_db_connect_ms=44
+[2025-12-22 08:03:47] tg_http_ms=231 code=200 err=
+[2025-12-22 08:03:47] bind_total_ms=456
+[2025-12-22 08:04:10] tg_http_ms=294 code=200 err=
+[2025-12-22 08:04:11] db_connect_ms=177
+[2025-12-22 08:04:11] pick_query_ms=89 rows=2
+[2025-12-22 08:04:11] tg_http_ms=222 code=200 err=
+[2025-12-22 08:04:11] picker_total_ms=489
+[2025-12-22 08:04:13] tg_http_ms=308 code=200 err=
+[2025-12-22 08:04:13] tg_http_ms=245 code=200 err=
+[2025-12-22 08:04:13] cab_total_ms=514
+[2025-12-22 08:04:15] tg_http_ms=353 code=200 err=
+[2025-12-22 08:04:15] tg_http_ms=216 code=200 err=
+[2025-12-22 08:04:17] tg_http_ms=288 code=200 err=
+[2025-12-22 08:04:17] db_connect_ms=44
+[2025-12-22 08:04:17] pick_query_ms=90 rows=1
+[2025-12-22 08:04:17] tg_http_ms=223 code=200 err=
+[2025-12-22 08:04:17] picker_total_ms=359
+[2025-12-22 08:04:23] tg_http_ms=345 code=200 err=
+[2025-12-22 08:04:23] tg_http_ms=212 code=200 err=
+[2025-12-22 08:04:23] cab_total_ms=478
+[2025-12-22 08:04:25] tg_http_ms=294 code=200 err=
+[2025-12-22 08:04:26] tg_http_ms=235 code=200 err=
+[2025-12-22 08:04:27] tg_http_ms=346 code=200 err=
+[2025-12-22 08:04:27] db_connect_ms=44
+[2025-12-22 08:04:28] pick_query_ms=89 rows=0
+[2025-12-22 08:04:28] tg_http_ms=222 code=200 err=
+[2025-12-22 08:04:28] picker_total_ms=357
+[2025-12-22 08:04:49] tg_http_ms=313 code=200 err=
+[2025-12-22 08:04:49] tg_http_ms=220 code=200 err=
+[2025-12-22 08:04:49] bind_db_connect_ms=44
+[2025-12-22 08:04:49] tg_http_ms=220 code=200 err=
+[2025-12-22 08:04:49] bind_total_ms=531
+[2025-12-22 09:26:45] tg_http_ms=307 code=200 err=
+[2025-12-22 09:26:45] schema_refresh_ms=86 cols=175
+[2025-12-22 09:26:45] db_connect_ms=254
+[2025-12-22 09:26:45] pick_query_ms=84 rows=1
+[2025-12-22 09:26:46] tg_http_ms=236 code=200 err=
+[2025-12-22 09:26:46] picker_total_ms=575
+[2025-12-22 09:26:54] tg_http_ms=312 code=200 err=
+[2025-12-22 09:26:54] tg_http_ms=285 code=200 err=
+[2025-12-22 09:26:54] bind_db_connect_ms=44
+[2025-12-22 09:26:55] tg_http_ms=225 code=200 err=
+[2025-12-22 09:26:55] bind_total_ms=539

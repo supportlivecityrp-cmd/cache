@@ -1,0 +1,266 @@
+[2025-12-19 11:34:40] ENTRY method=GET uri=/bot.php ip=109.185.84.184 ua=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 OPR/124.0.0.0
+[2025-12-19 11:35:06] ENTRY method=POST uri=/bot.php ip=91.108.5.42 ua=
+[2025-12-19 11:35:06] UPDATE chat=7408210999 tg=7408210999 uname=taskJson text=/start
+[2025-12-19 11:35:06] ENTRY method=POST uri=/bot.php ip=91.108.5.42 ua=
+[2025-12-19 11:35:06] UPDATE chat=7408210999 tg=7408210999 uname=taskJson text=/start
+[2025-12-19 11:35:07] ENTRY method=POST uri=/bot.php ip=91.108.5.42 ua=
+[2025-12-19 11:35:07] UPDATE chat=7408210999 tg=7408210999 uname=taskJson text=/start
+[2025-12-19 11:35:07] ENTRY method=POST uri=/bot.php ip=91.108.5.42 ua=
+[2025-12-19 11:35:07] UPDATE chat=7408210999 tg=7408210999 uname=taskJson text=/start
+[2025-12-19 11:35:08] ENTRY method=POST uri=/bot.php ip=91.108.5.42 ua=
+[2025-12-19 11:35:08] UPDATE chat=7408210999 tg=7408210999 uname=taskJson text=/start
+[2025-12-19 11:35:08] ENTRY method=POST uri=/bot.php ip=91.108.5.42 ua=
+[2025-12-19 11:35:08] UPDATE chat=7408210999 tg=7408210999 uname=taskJson text=👤 Личный кабинет
+[2025-12-19 11:35:09] ENTRY method=POST uri=/bot.php ip=91.108.5.42 ua=
+[2025-12-19 11:35:09] UPDATE chat=7408210999 tg=7408210999 uname=taskJson text=/start
+[2025-12-19 11:35:10] ENTRY method=POST uri=/bot.php ip=91.108.5.42 ua=
+[2025-12-19 11:35:10] UPDATE chat=7408210999 tg=7408210999 uname=taskJson text=/start
+[2025-12-19 11:35:10] ENTRY method=POST uri=/bot.php ip=91.108.5.42 ua=
+[2025-12-19 11:35:10] UPDATE chat=7408210999 tg=7408210999 uname=taskJson text=/start
+[2025-12-19 11:35:11] ENTRY method=POST uri=/bot.php ip=91.108.5.42 ua=
+[2025-12-19 11:35:11] UPDATE chat=7408210999 tg=7408210999 uname=taskJson text=/start
+[2025-12-19 11:35:14] ENTRY method=POST uri=/bot.php ip=91.108.5.42 ua=
+[2025-12-19 11:35:14] UPDATE chat=7408210999 tg=7408210999 uname=taskJson text=👤 Личный кабинет
+[2025-12-19 11:35:30] ENTRY method=POST uri=/bot.php ip=91.108.5.42 ua=
+[2025-12-19 11:35:30] UPDATE chat=7408210999 tg=7408210999 uname=taskJson text=/start
+[2025-12-19 11:35:42] ENTRY method=POST uri=/bot.php ip=91.108.5.42 ua=
+[2025-12-19 11:35:42] UPDATE chat=7408210999 tg=7408210999 uname=taskJson text=/start bind_s3_Cros_Chek_d9a18304b6539faae_mXiaomi_23108RN04Y_k34_a14
+[2025-12-19 11:36:42] ENTRY method=POST uri=/bot.php ip=91.108.5.42 ua=
+[2025-12-19 11:36:42] UPDATE chat=7408210999 tg=7408210999 uname=taskJson text=/start bind_s3_Cros_Chek_d9a18304b6539faae_mXiaomi_23108RN04Y_k34_a14
+[2025-12-19 11:36:43] BIND_OK nick=Cros_Chek tg=7408210999 dev=9a18304b6539faae uname=@taskJson
+[2025-12-19 11:36:43] ENTRY method=POST uri=/bot.php ip=91.108.5.42 ua=
+[2025-12-19 11:36:43] UPDATE chat=7408210999 tg=7408210999 uname=taskJson text=/start bind_s1_Echo_Cross_d9a18304b6539faae_mXiaomi_23108RN04Y_k34_a14
+[2025-12-19 11:36:44] BIND_OK nick=Echo_Cross tg=7408210999 dev=9a18304b6539faae uname=@taskJson
+[2025-12-19 11:36:44] ENTRY method=POST uri=/bot.php ip=91.108.5.42 ua=
+[2025-12-19 11:36:44] UPDATE chat=7408210999 tg=7408210999 uname=taskJson text=📊 Статистика
+[2025-12-19 11:36:45] ENTRY method=POST uri=/bot.php ip=91.108.5.42 ua=
+[2025-12-19 11:36:45] UPDATE chat=7408210999 tg=7408210999 uname=taskJson text=❓ Помощь
+[2025-12-19 11:36:46] ENTRY method=POST uri=/bot.php ip=91.108.5.42 ua=
+[2025-12-19 11:36:46] UPDATE chat=7408210999 tg=7408210999 uname=taskJson text=👤 Личный кабинет
+[2025-12-19 11:36:47] ENTRY method=POST uri=/bot.php ip=91.108.5.42 ua=
+[2025-12-19 11:36:47] UPDATE chat=7408210999 tg=7408210999 uname=taskJson text=/start
+[2025-12-19 11:36:55] ENTRY method=POST uri=/bot.php ip=91.108.5.42 ua=
+[2025-12-19 11:37:25] CB_ERROR SQLSTATE[HY000] [2002] Connection timed out
+[2025-12-19 11:38:11] ENTRY method=POST uri=/bot.php ip=91.108.5.42 ua=
+[2025-12-19 11:38:11] UPDATE chat=7408210999 tg=7408210999 uname=taskJson text=/start bind_s1_Echo_Cross_d9a18304b6539faae_mXiaomi_23108RN04Y_k34_a14
+[2025-12-19 11:38:12] BIND_OK nick=Echo_Cross tg=7408210999 dev=9a18304b6539faae uname=@taskJson
+[2025-12-19 11:38:15] ENTRY method=POST uri=/bot.php ip=91.108.5.42 ua=
+[2025-12-19 11:38:15] UPDATE chat=7408210999 tg=7408210999 uname=taskJson text=👤 Личный кабинет
+[2025-12-19 11:38:18] ENTRY method=POST uri=/bot.php ip=91.108.5.42 ua=
+[2025-12-19 11:38:21] ENTRY method=POST uri=/bot.php ip=91.108.5.42 ua=
+[2025-12-19 11:38:30] ENTRY method=POST uri=/bot.php ip=91.108.5.42 ua=
+[2025-12-19 11:38:30] UPDATE chat=7408210999 tg=7408210999 uname=taskJson text=📊 Статистика
+[2025-12-19 11:38:33] ENTRY method=POST uri=/bot.php ip=91.108.5.42 ua=
+[2025-12-19 11:38:35] ENTRY method=POST uri=/bot.php ip=91.108.5.42 ua=
+[2025-12-19 11:38:39] ENTRY method=POST uri=/bot.php ip=91.108.5.42 ua=
+[2025-12-19 11:38:39] UPDATE chat=7408210999 tg=7408210999 uname=taskJson text=👤 Личный кабинет
+[2025-12-19 11:38:41] ENTRY method=POST uri=/bot.php ip=91.108.5.42 ua=
+[2025-12-19 11:46:29] ENTRY method=POST uri=/bot.php ip=91.108.5.42 ua=
+[2025-12-19 11:46:29] UPDATE chat=7408210999 tg=7408210999 uname=taskJson text=👤 Личный кабинет
+[2025-12-19 11:46:32] ENTRY method=POST uri=/bot.php ip=91.108.5.42 ua=
+[2025-12-19 11:46:36] ENTRY method=POST uri=/bot.php ip=91.108.5.42 ua=
+[2025-12-19 11:46:43] ENTRY method=POST uri=/bot.php ip=91.108.5.42 ua=
+[2025-12-19 11:46:44] ENTRY method=POST uri=/bot.php ip=91.108.5.42 ua=
+[2025-12-19 11:46:48] ENTRY method=POST uri=/bot.php ip=91.108.5.42 ua=
+[2025-12-19 11:46:48] UNBIND_OK tg=7408210999 id=556
+[2025-12-19 11:46:55] ENTRY method=POST uri=/bot.php ip=91.108.5.42 ua=
+[2025-12-19 11:51:32] ENTRY method=POST uri=/bot.php ip=91.108.5.42 ua=
+[2025-12-19 11:51:32] UPDATE chat=7517546316 tg=7517546316 uname=portego2 text=/start bind_s1_Echo_Cross_d9a18304b6539faae_mXiaomi_23108RN04Y_k34_a14
+[2025-12-19 11:51:33] DENY_OTHER_TG nick=Echo_Cross curTg=7408210999 newTg=7517546316
+[2025-12-19 11:51:45] ENTRY method=POST uri=/bot.php ip=91.108.5.42 ua=
+[2025-12-19 11:51:45] UPDATE chat=7517546316 tg=7517546316 uname=portego2 text=👤 Личный кабинет
+[2025-12-19 11:51:50] ENTRY method=POST uri=/bot.php ip=91.108.5.42 ua=
+[2025-12-19 11:51:50] UPDATE chat=7517546316 tg=7517546316 uname=portego2 text=📊 Статистика
+[2025-12-19 11:52:00] ENTRY method=POST uri=/bot.php ip=91.108.5.42 ua=
+[2025-12-19 11:52:00] UPDATE chat=7517546316 tg=7517546316 uname=portego2 text=/start bind_s3_Cros_Chek_d9a18304b6539faae_mXiaomi_23108RN04Y_k34_a14
+[2025-12-19 11:52:01] BIND_OK nick=Cros_Chek tg=7517546316 dev=9a18304b6539faae uname=@portego2
+[2025-12-19 11:52:04] ENTRY method=POST uri=/bot.php ip=91.108.5.42 ua=
+[2025-12-19 11:52:04] UPDATE chat=7517546316 tg=7517546316 uname=portego2 text=👤 Личный кабинет
+[2025-12-19 11:57:50] ENTRY method=POST uri=/bot.php ip=91.108.5.42 ua=
+[2025-12-19 11:57:50] UPDATE chat=7408210999 tg=7408210999 uname=taskJson text=👤 Личный кабинет
+[2025-12-19 11:57:53] ENTRY method=POST uri=/bot.php ip=91.108.5.42 ua=
+[2025-12-19 11:58:01] ENTRY method=POST uri=/bot.php ip=91.108.5.42 ua=
+[2025-12-19 11:58:06] ENTRY method=POST uri=/bot.php ip=91.108.5.42 ua=
+[2025-12-19 11:58:09] ENTRY method=POST uri=/bot.php ip=91.108.5.42 ua=
+[2025-12-19 11:58:14] ENTRY method=POST uri=/bot.php ip=91.108.5.42 ua=
+[2025-12-19 11:58:23] ENTRY method=POST uri=/bot.php ip=91.108.5.42 ua=
+[2025-12-19 11:58:32] ENTRY method=POST uri=/bot.php ip=91.108.5.42 ua=
+[2025-12-19 11:58:34] ENTRY method=POST uri=/bot.php ip=91.108.5.42 ua=
+[2025-12-19 11:58:34] UPDATE chat=7517546316 tg=7517546316 uname=portego2 text=👤 Личный кабинет
+[2025-12-19 11:58:36] ENTRY method=POST uri=/bot.php ip=91.108.5.42 ua=
+[2025-12-19 11:58:47] ENTRY method=POST uri=/bot.php ip=91.108.5.42 ua=
+[2025-12-19 11:58:49] ENTRY method=POST uri=/bot.php ip=91.108.5.42 ua=
+[2025-12-19 11:58:49] UNBIND_OK tg=7408210999 id=531
+[2025-12-19 11:58:52] ENTRY method=POST uri=/bot.php ip=91.108.5.42 ua=
+[2025-12-19 11:58:52] UPDATE chat=7408210999 tg=7408210999 uname=taskJson text=👤 Личный кабинет
+[2025-12-19 11:59:01] ENTRY method=POST uri=/bot.php ip=91.108.5.42 ua=
+[2025-12-19 11:59:01] UPDATE chat=7517546316 tg=7517546316 uname=portego2 text=/start bind_s1_Echo_Cross_d9a18304b6539faae_mXiaomi_23108RN04Y_k34_a14
+[2025-12-19 11:59:02] BIND_OK nick=Echo_Cross tg=7517546316 dev=9a18304b6539faae uname=@portego2
+[2025-12-19 12:17:21] ENTRY method=POST uri=/bot.php ip=91.108.5.42 ua=
+[2025-12-19 12:17:21] UPDATE chat=7408210999 tg=7408210999 uname=taskJson text=👤 Личный кабинет
+[2025-12-19 12:17:24] ENTRY method=POST uri=/bot.php ip=91.108.5.42 ua=
+[2025-12-19 12:17:24] UPDATE chat=7408210999 tg=7408210999 uname=taskJson text=📊 Статистика
+[2025-12-19 12:17:48] ENTRY method=POST uri=/bot.php ip=91.108.5.42 ua=
+[2025-12-19 12:17:48] UPDATE chat=7517546316 tg=7517546316 uname=portego2 text=👤 Личный кабинет
+[2025-12-19 12:17:51] ENTRY method=POST uri=/bot.php ip=91.108.5.42 ua=
+[2025-12-19 12:17:53] ENTRY method=POST uri=/bot.php ip=91.108.5.42 ua=
+[2025-12-19 12:17:54] ENTRY method=POST uri=/bot.php ip=91.108.5.42 ua=
+[2025-12-19 12:17:55] UNBIND_OK tg=7517546316 id=531
+[2025-12-19 12:17:57] ENTRY method=POST uri=/bot.php ip=91.108.5.42 ua=
+[2025-12-19 12:17:59] ENTRY method=POST uri=/bot.php ip=91.108.5.42 ua=
+[2025-12-19 12:18:00] ENTRY method=POST uri=/bot.php ip=91.108.5.42 ua=
+[2025-12-19 12:18:01] UNBIND_OK tg=7517546316 id=556
+[2025-12-19 12:20:53] ENTRY method=POST uri=/bot.php ip=91.108.5.42 ua=
+[2025-12-19 12:20:53] UPDATE chat=7408210999 tg=7408210999 uname=taskJson text=👤 Личный кабинет
+[2025-12-19 12:20:55] ENTRY method=POST uri=/bot.php ip=91.108.5.42 ua=
+[2025-12-19 12:20:55] UPDATE chat=7408210999 tg=7408210999 uname=taskJson text=📊 Статистика
+[2025-12-19 12:35:20] ENTRY method=POST uri=/bot.php ip=91.108.5.42 ua=
+[2025-12-19 12:35:20] UPDATE chat=7408210999 tg=7408210999 uname=taskJson text=👤 Личный кабинет
+[2025-12-19 12:45:19] ENTRY method=POST uri=/bot.php ip=91.108.5.42 ua=
+[2025-12-19 12:45:19] UPDATE chat=7517546316 tg=7517546316 uname=portego2 text=/start bind_s1_Echo_Cross_d9a18304b6539faae_mXiaomi_23108RN04Y_k34_a14
+[2025-12-19 12:45:20] BIND_OK nick=Echo_Cross tg=7517546316 dev=9a18304b6539faae uname=@portego2
+[2025-12-19 12:48:13] ENTRY method=POST uri=/bot.php ip=91.108.5.42 ua=
+[2025-12-19 12:48:13] UPDATE chat=7408210999 tg=7408210999 uname=taskJson text=/start bind_s2_Test_Testing_d9a18304b6539faae_mXiaomi_23108RN04Y_k34_a1
+[2025-12-19 12:48:14] BIND_OK nick=Test_Testing tg=7408210999 dev=9a18304b6539faae uname=@taskJson
+[2025-12-19 12:49:16] ENTRY method=POST uri=/bot.php ip=91.108.5.42 ua=
+[2025-12-19 12:49:16] UPDATE chat=7408210999 tg=7408210999 uname=taskJson text=👤 Личный кабинет
+[2025-12-19 12:49:18] ENTRY method=POST uri=/bot.php ip=91.108.5.42 ua=
+[2025-12-19 12:49:24] ENTRY method=POST uri=/bot.php ip=91.108.5.42 ua=
+[2025-12-19 12:49:27] ENTRY method=POST uri=/bot.php ip=91.108.5.42 ua=
+[2025-12-19 12:49:29] ENTRY method=POST uri=/bot.php ip=91.108.5.42 ua=
+[2025-12-19 12:49:32] ENTRY method=POST uri=/bot.php ip=91.108.5.42 ua=
+[2025-12-19 12:49:36] ENTRY method=POST uri=/bot.php ip=91.108.5.42 ua=
+[2025-12-19 13:08:00] ENTRY method=POST uri=/bot.php ip=91.108.5.42 ua=
+[2025-12-19 13:08:00] UPDATE chat=7408210999 tg=7408210999 uname=taskJson text=👤 Личный кабинет
+[2025-12-19 13:10:39] ENTRY method=POST uri=/bot.php ip=91.108.5.42 ua=
+[2025-12-19 13:10:39] UPDATE chat=7408210999 tg=7408210999 uname=taskJson text=/start
+[2025-12-19 13:52:32] ENTRY method=POST uri=/bot.php ip=91.108.5.42 ua=
+[2025-12-19 13:52:32] UPDATE chat=7408210999 tg=7408210999 uname=taskJson text=/start
+[2025-12-19 13:52:37] ENTRY method=POST uri=/bot.php ip=91.108.5.42 ua=
+[2025-12-19 13:52:39] ENTRY method=POST uri=/bot.php ip=91.108.5.42 ua=
+[2025-12-19 13:52:53] ENTRY method=POST uri=/bot.php ip=91.108.5.42 ua=
+[2025-12-19 13:52:55] ENTRY method=POST uri=/bot.php ip=91.108.5.42 ua=
+[2025-12-19 13:52:57] ENTRY method=POST uri=/bot.php ip=91.108.5.42 ua=
+[2025-12-19 13:52:59] ENTRY method=POST uri=/bot.php ip=91.108.5.42 ua=
+[2025-12-19 13:52:59] UNBIND_OK tg=7517546316 id=531
+[2025-12-19 13:53:01] ENTRY method=POST uri=/bot.php ip=91.108.5.42 ua=
+[2025-12-19 13:53:03] ENTRY method=POST uri=/bot.php ip=91.108.5.42 ua=
+[2025-12-19 13:53:04] ENTRY method=POST uri=/bot.php ip=91.108.5.42 ua=
+[2025-12-19 13:53:05] UNBIND_OK tg=7517546316 id=557
+[2025-12-19 13:55:03] ENTRY method=POST uri=/bot.php ip=91.108.5.42 ua=
+[2025-12-19 13:55:03] UPDATE chat=7408210999 tg=7408210999 uname=taskJson text=/start bind_s1_Echo_Cross_dfcd4894b27e3251a_mZTE_Z2350_k33_a13
+[2025-12-19 13:55:05] BIND_OK nick=Echo_Cross tg=7408210999 dev=fcd4894b27e3251a uname=@taskJson
+[2025-12-19 13:55:07] ENTRY method=POST uri=/bot.php ip=91.108.5.42 ua=
+[2025-12-19 13:55:10] ENTRY method=POST uri=/bot.php ip=91.108.5.42 ua=
+[2025-12-19 13:55:13] ENTRY method=POST uri=/bot.php ip=91.108.5.42 ua=
+[2025-12-19 13:55:16] ENTRY method=POST uri=/bot.php ip=91.108.5.42 ua=
+[2025-12-19 13:55:17] ENTRY method=POST uri=/bot.php ip=91.108.5.42 ua=
+[2025-12-19 13:55:19] ENTRY method=POST uri=/bot.php ip=91.108.5.42 ua=
+[2025-12-19 13:55:21] ENTRY method=POST uri=/bot.php ip=91.108.5.42 ua=
+[2025-12-19 13:55:22] ENTRY method=POST uri=/bot.php ip=91.108.5.42 ua=
+[2025-12-19 13:55:25] ENTRY method=POST uri=/bot.php ip=91.108.5.42 ua=
+[2025-12-19 13:55:28] ENTRY method=POST uri=/bot.php ip=91.108.5.42 ua=
+[2025-12-19 13:55:29] ENTRY method=POST uri=/bot.php ip=91.108.5.42 ua=
+[2025-12-19 13:55:32] ENTRY method=POST uri=/bot.php ip=91.108.5.42 ua=
+[2025-12-19 13:55:32] UNBIND_OK tg=7408210999 id=555
+[2025-12-19 13:55:34] ENTRY method=POST uri=/bot.php ip=91.108.5.42 ua=
+[2025-12-19 14:28:01] ENTRY method=POST uri=/bot.php ip=91.108.5.42 ua=
+[2025-12-19 14:28:04] ENTRY method=POST uri=/bot.php ip=91.108.5.42 ua=
+[2025-12-19 14:28:04] UNBIND_OK tg=7408210999 id=531
+[2025-12-19 14:28:06] ENTRY method=POST uri=/bot.php ip=91.108.5.42 ua=
+[2025-12-19 14:33:31] ENTRY method=POST uri=/bot.php ip=91.108.5.42 ua=
+[2025-12-19 14:33:31] UPDATE chat=7408210999 tg=7408210999 uname=taskJson text=/start bind_s1_Echo_Cross_dfcd4894b27e3251a_mZTE_Z2350_k33_a13
+[2025-12-19 14:33:33] BIND_OK nick=Echo_Cross tg=7408210999 dev=fcd4894b27e3251a uname=@taskJson
+[2025-12-19 14:35:10] ENTRY method=POST uri=/bot.php ip=91.108.5.42 ua=
+[2025-12-19 14:35:12] ENTRY method=POST uri=/bot.php ip=91.108.5.42 ua=
+[2025-12-19 14:35:15] ENTRY method=POST uri=/bot.php ip=91.108.5.42 ua=
+[2025-12-19 14:35:17] ENTRY method=POST uri=/bot.php ip=91.108.5.42 ua=
+[2025-12-19 14:35:17] UNBIND_OK tg=7408210999 id=531
+[2025-12-19 14:35:40] ENTRY method=POST uri=/bot.php ip=91.108.5.42 ua=
+[2025-12-19 14:35:40] UPDATE chat=7408210999 tg=7408210999 uname=taskJson text=/start bind_s1_Echo_Cross_dfcd4894b27e3251a_mZTE_Z2350_k33_a13
+[2025-12-19 14:35:41] BIND_OK nick=Echo_Cross tg=7408210999 dev=fcd4894b27e3251a uname=@taskJson
+[2025-12-19 14:36:18] ENTRY method=POST uri=/bot.php ip=91.108.5.42 ua=
+[2025-12-19 14:36:20] ENTRY method=POST uri=/bot.php ip=91.108.5.42 ua=
+[2025-12-19 14:36:22] ENTRY method=POST uri=/bot.php ip=91.108.5.42 ua=
+[2025-12-19 14:36:24] ENTRY method=POST uri=/bot.php ip=91.108.5.42 ua=
+[2025-12-19 14:36:25] UNBIND_OK tg=7408210999 id=531
+[2025-12-19 14:36:45] ENTRY method=POST uri=/bot.php ip=91.108.5.42 ua=
+[2025-12-19 14:36:45] UPDATE chat=7408210999 tg=7408210999 uname=taskJson text=/start bind_s1_Echo_Cross_dfcd4894b27e3251a_mZTE_Z2350_k33_a13
+[2025-12-19 14:36:47] BIND_OK nick=Echo_Cross tg=7408210999 dev=fcd4894b27e3251a uname=@taskJson
+[2025-12-19 14:37:13] ENTRY method=POST uri=/bot.php ip=91.108.5.42 ua=
+[2025-12-19 14:37:15] ENTRY method=POST uri=/bot.php ip=91.108.5.42 ua=
+[2025-12-19 14:37:17] ENTRY method=POST uri=/bot.php ip=91.108.5.42 ua=
+[2025-12-19 14:37:19] ENTRY method=POST uri=/bot.php ip=91.108.5.42 ua=
+[2025-12-19 14:37:19] UNBIND_OK tg=7408210999 id=531
+[2025-12-19 14:40:49] ENTRY method=POST uri=/bot.php ip=91.108.5.42 ua=
+[2025-12-19 14:40:49] UPDATE chat=7408210999 tg=7408210999 uname=taskJson text=/start bind_s1_Echo_Cross_dfcd4894b27e3251a_mZTE_Z2350_k33_a13
+[2025-12-19 14:40:51] BIND_OK nick=Echo_Cross tg=7408210999 dev=fcd4894b27e3251a uname=@taskJson
+[2025-12-19 14:41:28] ENTRY method=POST uri=/bot.php ip=91.108.5.42 ua=
+[2025-12-19 14:41:31] ENTRY method=POST uri=/bot.php ip=91.108.5.42 ua=
+[2025-12-19 14:41:33] ENTRY method=POST uri=/bot.php ip=91.108.5.42 ua=
+[2025-12-19 14:41:35] ENTRY method=POST uri=/bot.php ip=91.108.5.42 ua=
+[2025-12-19 14:41:38] ENTRY method=POST uri=/bot.php ip=91.108.5.42 ua=
+[2025-12-19 14:41:39] ENTRY method=POST uri=/bot.php ip=91.108.5.42 ua=
+[2025-12-19 14:41:53] ENTRY method=POST uri=/bot.php ip=91.108.5.42 ua=
+[2025-12-19 14:41:54] UNBIND_OK tg=7408210999 id=531
+[2025-12-19 14:41:56] ENTRY method=POST uri=/bot.php ip=91.108.5.42 ua=
+[2025-12-19 14:41:58] ENTRY method=POST uri=/bot.php ip=91.108.5.42 ua=
+[2025-12-19 14:42:06] ENTRY method=POST uri=/bot.php ip=91.108.5.42 ua=
+[2025-12-19 14:42:06] UPDATE chat=7408210999 tg=7408210999 uname=taskJson text=/start bind_s1_Echo_Cross_dfcd4894b27e3251a_mZTE_Z2350_k33_a13
+[2025-12-19 14:42:07] BIND_OK nick=Echo_Cross tg=7408210999 dev=fcd4894b27e3251a uname=@taskJson
+[2025-12-20 08:04:15] ENTRY method=POST uri=/bot.php ip=91.108.5.42 ua=
+[2025-12-20 08:04:17] ENTRY method=POST uri=/bot.php ip=91.108.5.42 ua=
+[2025-12-20 08:04:19] ENTRY method=POST uri=/bot.php ip=91.108.5.42 ua=
+[2025-12-20 08:04:21] ENTRY method=POST uri=/bot.php ip=91.108.5.42 ua=
+[2025-12-20 08:04:21] UNBIND_OK tg=7408210999 id=531
+[2025-12-20 08:04:31] ENTRY method=POST uri=/bot.php ip=91.108.5.42 ua=
+[2025-12-20 08:04:31] UPDATE chat=7408210999 tg=7408210999 uname=taskJson text=/start bind_s1_Echo_Cross_d9a18304b6539faae_mXiaomi_23108RN04Y_k34_a14
+[2025-12-20 08:04:32] BIND_OK nick=Echo_Cross tg=7408210999 dev=9a18304b6539faae uname=@taskJson
+[2025-12-20 09:36:08] ENTRY method=POST uri=/bot.php ip=91.108.5.42 ua=
+[2025-12-20 09:36:10] ENTRY method=POST uri=/bot.php ip=91.108.5.42 ua=
+[2025-12-20 09:36:24] ENTRY method=POST uri=/bot.php ip=91.108.5.42 ua=
+[2025-12-20 19:36:12] ENTRY method=POST uri=/bot.php ip=91.108.5.42 ua=
+[2025-12-21 05:46:59] ENTRY method=POST uri=/bot.php ip=91.108.5.42 ua=
+[2025-12-21 05:47:02] ENTRY method=POST uri=/bot.php ip=91.108.5.42 ua=
+[2025-12-21 13:55:46] ENTRY method=POST uri=/bot.php ip=91.108.5.42 ua=
+[2025-12-21 13:55:48] ENTRY method=POST uri=/bot.php ip=91.108.5.42 ua=
+[2025-12-21 13:55:51] ENTRY method=POST uri=/bot.php ip=91.108.5.42 ua=
+[2025-12-21 13:55:53] ENTRY method=POST uri=/bot.php ip=91.108.5.42 ua=
+[2025-12-22 06:02:08] ENTRY method=POST uri=/bot.php ip=91.108.5.42 ua=
+[2025-12-22 06:02:09] ENTRY method=POST uri=/bot.php ip=91.108.5.42 ua=
+[2025-12-22 06:02:11] ENTRY method=POST uri=/bot.php ip=91.108.5.42 ua=
+[2025-12-22 06:02:13] ENTRY method=POST uri=/bot.php ip=91.108.5.42 ua=
+[2025-12-22 06:02:13] UNBIND_OK tg=7408210999 id=531
+[2025-12-22 06:50:27] ENTRY method=POST uri=/bot.php ip=91.108.5.42 ua=
+[2025-12-22 06:50:27] UPDATE chat=7760961933 tg=7760961933 uname=X_X_0_Z text=/start bind_s1_Echo_Cross_9a18304b6539faae
+[2025-12-22 06:50:28] PAYLOAD_BAD tg=7760961933 err=no_device raw=bind_s1_Echo_Cross_9a18304b6539faae
+[2025-12-22 06:50:53] ENTRY method=POST uri=/bot.php ip=91.108.5.42 ua=
+[2025-12-22 06:50:53] UPDATE chat=7408210999 tg=7408210999 uname=taskJson text=/start bind_s1_Echo_Cross_9a18304b6539faae
+[2025-12-22 06:50:54] PAYLOAD_BAD tg=7408210999 err=no_device raw=bind_s1_Echo_Cross_9a18304b6539faae
+[2025-12-22 06:58:33] ENTRY method=POST uri=/bot.php ip=91.108.5.42 ua=
+[2025-12-22 06:58:33] UPDATE chat=7408210999 tg=7408210999 uname=taskJson text=/start bind_s1_Echo_Cross_d9a18304b6539faae_mXiaomi_23108RN04Y_k34_a14
+[2025-12-22 06:58:35] BIND_OK nick=Echo_Cross tg=7408210999 dev=9a18304b6539faae uname=@taskJson
+[2025-12-22 08:02:44] ENTRY method=POST uri=/bot.php ip=91.108.5.42 ua=
+[2025-12-22 08:02:44] UPDATE chat=7408210999 tg=7408210999 uname=taskJson text=/start bind_s2_Test_Hui_d9a18304b6539faae_mXiaomi_23108RN04Y_k34_a14
+[2025-12-22 08:03:44] ENTRY method=POST uri=/bot.php ip=91.108.5.42 ua=
+[2025-12-22 08:03:44] UPDATE chat=7408210999 tg=7408210999 uname=taskJson text=/start bind_s2_Test_Hui_d9a18304b6539faae_mXiaomi_23108RN04Y_k34_a14
+[2025-12-22 08:03:45] BIND_OK nick=Test_Hui tg=7408210999 dev=9a18304b6539faae uname=@taskJson
+[2025-12-22 08:03:45] ENTRY method=POST uri=/bot.php ip=91.108.5.42 ua=
+[2025-12-22 08:03:45] UPDATE chat=7408210999 tg=7408210999 uname=taskJson text=/start bind_s2_Test_Hui_d9a18304b6539faae_mXiaomi_23108RN04Y_k34_a14
+[2025-12-22 08:03:47] BIND_OK nick=Test_Hui tg=7408210999 dev=9a18304b6539faae uname=@taskJson
+[2025-12-22 08:04:10] ENTRY method=POST uri=/bot.php ip=91.108.5.42 ua=
+[2025-12-22 08:04:12] ENTRY method=POST uri=/bot.php ip=91.108.5.42 ua=
+[2025-12-22 08:04:14] ENTRY method=POST uri=/bot.php ip=91.108.5.42 ua=
+[2025-12-22 08:04:16] ENTRY method=POST uri=/bot.php ip=91.108.5.42 ua=
+[2025-12-22 08:04:16] UNBIND_OK tg=7408210999 id=558
+[2025-12-22 08:04:22] ENTRY method=POST uri=/bot.php ip=91.108.5.42 ua=
+[2025-12-22 08:04:25] ENTRY method=POST uri=/bot.php ip=91.108.5.42 ua=
+[2025-12-22 08:04:27] ENTRY method=POST uri=/bot.php ip=91.108.5.42 ua=
+[2025-12-22 08:04:27] UNBIND_OK tg=7408210999 id=531
+[2025-12-22 08:04:48] ENTRY method=POST uri=/bot.php ip=91.108.5.42 ua=
+[2025-12-22 08:04:48] UPDATE chat=7408210999 tg=7408210999 uname=taskJson text=/start bind_s1_Echo_Cross_d9a18304b6539faae_mXiaomi_23108RN04Y_k34_a14
+[2025-12-22 08:04:49] BIND_OK nick=Echo_Cross tg=7408210999 dev=9a18304b6539faae uname=@taskJson
+[2025-12-22 09:26:45] ENTRY method=POST uri=/bot.php ip=91.108.5.42 ua=
+[2025-12-22 09:26:53] ENTRY method=POST uri=/bot.php ip=91.108.5.42 ua=
+[2025-12-22 09:26:53] UPDATE chat=7408210999 tg=7408210999 uname=taskJson text=/start bind_s2_Test_Hui_d9a18304b6539faae_mXiaomi_23108RN04Y_k34_a14
+[2025-12-22 09:26:55] BIND_OK nick=Test_Hui tg=7408210999 dev=9a18304b6539faae uname=@taskJson
